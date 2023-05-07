@@ -1,0 +1,14 @@
+.trackers-container {
+  background-color: #000000;
+  min-height: 100vh;
+  padding: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+@media screen and (max-width: 576px) {
+  .trackers-container {
+    padding: 5px;
+  }
+}
